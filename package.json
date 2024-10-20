@@ -11,11 +11,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "axios": "^1.7.7",
-    "dotenv": "^16.4.5",
-    "express": "^4.21.1",
-    "node-fetch": "^3.3.2",
-    "openai": "^4.68.1"
-  },
-  "type": "module"
+    "express": "^4.21.1"
+  }
 }
