@@ -24,6 +24,6 @@ async function queryOpenAI(userInput) {
 }
 
 document.getElementById('submitBtn').addEventListener('click', () => {
-    const userInput = document.getElementById('userInput').value;
+    const userInput = document.getElementById('userInput').value; git
     queryOpenAI(userInput);
 });
